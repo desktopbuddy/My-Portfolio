@@ -58,7 +58,7 @@ p {
 }
 
 .main-work {
-    background-image: url(/images/placeholder.jpg);
+    background-image: url(/images/moviemunchies.png);
     background-size: cover;
     width: 50%;
     height: 500px;
@@ -104,7 +104,7 @@ p {
 }
 
 .main-work:hover {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(/images/placeholder.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(/images/moviemunchies.png);
 }
 
 .other-work:hover {
